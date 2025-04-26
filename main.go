@@ -2,11 +2,12 @@
 package main
 
 import (
-	"appsettings2env/config"
-	"appsettings2env/converter"
 	"flag"
 	"fmt"
 	"os"
+
+	"github.com/Chixide1/appsettings2env/config"
+	"github.com/Chixide1/appsettings2env/converter"
 )
 
 func main() {
