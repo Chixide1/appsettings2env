@@ -2,9 +2,9 @@
 package converter
 
 import (
-	"appsettings2env/config"
-	"appsettings2env/file"
-	"appsettings2env/flattener"
+	"github.com/Chixide1/appsettings2env/config"
+	"github.com/Chixide1/appsettings2env/file"
+	"github.com/Chixide1/appsettings2env/flattener"
 )
 
 // Performs the full conversion process
